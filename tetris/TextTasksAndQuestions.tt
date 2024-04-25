@@ -1,0 +1,25 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".txt" #>
+
+
+Баг при движении когда фигура достигает дна 
+
+Дописать фигуры правильно
+
+Повороты фигур написать
+
+Исправить вновь возникшие баги на границах при повротах
+
+Исправить баг при поворотах внизу
+
+Окончание игры при условии что фигура оказалась сверху(вроде реализовано)
+
+Исчезновение линии после заполнения
+
+Сделать рамку входа
+
+
